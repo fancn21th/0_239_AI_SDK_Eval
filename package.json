@@ -9,11 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@ai-sdk/openai": "0.0.53",
-    "@langchain/openai": "0.2.7",
+    "@ai-sdk/azure": "0.0.32",
     "ai": "3.3.17",
-    "https-proxy-agent": "7.0.5",
-    "langchain": "0.2.17",
+    "nanoid": "5.0.7",
     "next": "14.2.6",
     "react": "^18",
     "react-dom": "^18",
